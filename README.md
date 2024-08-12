@@ -11,22 +11,22 @@ To achieve this, we employed three different machine learning models : Random Fo
 1. Imports and Data Loading + EDA and Visualization
 2. Data Cleaning and Data Preparation
 3. Create Random Forest Classifier model
-Precision: 0.80
-Recall: 0.78
-F1-Score: 0.75
-Accuracy: 0.78
+- Precision: 0.80
+- Recall: 0.78
+- F1-Score: 0.75
+- Accuracy: 0.78
 
 4. Create Logistic Regression model
-Precision: 0.80
-Recall: 0.78
-F1-Score: 0.75
-Accuracy: 0.78
+- Precision: 0.80
+- Recall: 0.78
+- F1-Score: 0.75
+- Accuracy: 0.78
 
 5. Create Support Vector Classifier (SVC) model
-Precision: 0.82
-Recall: 0.79
-F1-Score: 0.76
-Accuracy: 0.79
+- Precision: 0.82
+- Recall: 0.79
+- F1-Score: 0.76
+- Accuracy: 0.79
 
 
 Note that during the preprocessing phase:
@@ -35,8 +35,9 @@ Note that during the preprocessing phase:
 
 
 6. Make prediction
+
 Among the models evaluated, the Support Vector Classifier (SVC) achieved the highest accuracy and F1-Score. This model was selected for making predictions for an example input data and the SVC model predicts that the loan will be approved (1)
 
-7. ## Files Included
+8. ## Files Included
   - .ipynb Notebook
   - CSV file
