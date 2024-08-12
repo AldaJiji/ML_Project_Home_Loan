@@ -38,6 +38,6 @@ Note that during the preprocessing phase:
 
 Among the models evaluated, the Support Vector Classifier (SVC) achieved the highest accuracy and F1-Score. This model was selected for making predictions for an example input data and the SVC model predicts that the loan will be approved (1)
 
-8. ## Files Included
+7. Files Included
   - .ipynb Notebook
   - CSV file
